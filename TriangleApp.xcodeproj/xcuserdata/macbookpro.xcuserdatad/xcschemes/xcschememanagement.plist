@@ -6,8 +6,28 @@
 	<dict>
 		<key>TriangleApp.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>5226ED652646C22400A5BB9F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5226ED7B2646C22600A5BB9F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5226ED862646C22600A5BB9F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
