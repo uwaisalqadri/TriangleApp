@@ -44,7 +44,7 @@ class TriangleAppTests: XCTestCase {
     }
     
     func testDetectEquilateralTriangle() {
-        XCTAssertEqual(try detectTriangle(2, 2, 2), "Segitiga sama sisi")
+        XCTAssertEqual(try detectTriangle(2, 2, 2), "Segitiga sama sisi") // 2, 2, 2
     }
 
     func testDetectIsoscelesTriangle() {
